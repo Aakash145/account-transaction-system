@@ -1,0 +1,6 @@
+@SimpleTransactionSystem_HostAddress = http://localhost:5092
+
+GET {{SimpleTransactionSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
